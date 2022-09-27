@@ -1,1 +1,1 @@
-![image](https://github.com/alexlyzhov/CPDE/blob/main/CPDE%20BDL%20poster.png)
+![image](https://github.com/alexlyzhov/CPDE/blob/main/CPDE_poster.png)
